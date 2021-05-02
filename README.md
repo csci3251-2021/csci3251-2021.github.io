@@ -5,6 +5,7 @@ There are some teams in our course project:
 * [Team X](https://csci3251-2021.github.io/project-team-x/ 'Team-X') _@chuckjee_
 * [Team I](https://csci3251-2021.github.io/project-team-i/ 'Team-I')
 * [Team K](https://csci3251-2021.github.io/project-team-k/ 'Team-K')
+* [Team F](https://csci3251-2021.github.io/project-team-f/ 'Team-F') _@chuckjee_
 
 For more details, contact @chuckjee regarding course issues.
 
