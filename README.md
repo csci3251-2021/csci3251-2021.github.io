@@ -2,8 +2,8 @@ Hello from CUHK CSCI3251! This is another playground for our course students to 
 
 There are some teams in our course project:
 
-* [Team X](https://csci3251-2021.github.io/project-team-x/ 'Team-X') _@chuckjee_
-* [Team E](https://csci3251-2021.github.io/project-team-e/ 'Team-E') 
+* [Team E](https://csci3251-2021.github.io/project-team-e/ 'Team-E')
+* [Team F](https://csci3251-2021.github.io/project-team-f/ 'Team-F') 
 * [Team G](https://csci3251-2021.github.io/project-team-g/ 'Team-G')
 * [Team I](https://csci3251-2021.github.io/project-team-i/ 'Team-I')
 * [Team K](https://csci3251-2021.github.io/project-team-k/ 'Team-K')
