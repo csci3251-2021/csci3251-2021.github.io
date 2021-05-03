@@ -9,6 +9,7 @@ There are some teams in our course project:
 * [Team K](https://csci3251-2021.github.io/project-team-k/ 'Team-K')
 * [Team L](https://csci3251-2021.github.io/project-team-l/ 'Team-L')
 * [Team M](https://csci3251-2021.github.io/project-team-m/ 'Team-M')
+* [Team N](https://csci3251-2021.github.io/project-team-n/ 'Team-N')
 * [Team P](https://csci3251-2021.github.io/project-team-p/ 'Team-P')
 
 For more details, contact @chuckjee regarding course issues.
